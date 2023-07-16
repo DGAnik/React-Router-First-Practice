@@ -1,0 +1,38 @@
+.showName{
+  color: darkred;
+  font-size: 20px;
+  font-weight: 800;
+}
+.allInfo{
+  display: flex;
+  gap: 30px;
+  border: 5px solid black;
+  border-radius: 10px;
+  padding: 15px;
+}
+.common-design{
+  border: 5px solid yellowgreen;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+  text-align: left;
+}
+.common-design h3{
+  font-size: 30px;
+}
+.common-design span{
+  font-weight: 900;
+  color: lightgoldenrodyellow;
+}
+.basic-info{
+  background-color: darkslategrey;
+}
+.contact{
+  background-color: darkgreen;
+}
+.address{
+  background-color: darkolivegreen;
+}
+.company{
+  background-color: darkblue;
+}
